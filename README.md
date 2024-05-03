@@ -1,4 +1,4 @@
-## Thread-Safe Queue 
+## Thread-Safe Queue
 This is a C++ implementation of a thread-safe queue (**threadSafeQ**) using mutex locks.
 The code includes a class **threadSafeQ** which encapsulates a queue and ensures thread-safe access to its methods.
 
